@@ -2,7 +2,7 @@
   "name": "@camera.ui/rpc",
   "version": "1.0.12",
   "description": "camera.ui rpc package",
-  "author": "seydx (https://github.com/cameraui/rpc)",
+  "author": "seydx (https://github.com/atva0408-create/Vion-rpc)",
   "type": "module",
   "sideEffects": [
     "**/decorators.js"
@@ -42,12 +42,12 @@
     "vitest": "^5.0.2"
   },
   "bugs": {
-    "url": "https://github.com/cameraui/rpc/issues"
+    "url": "https://github.com/atva0408-create/Vion-rpc/issues"
   },
   "engines": {
     "node": ">=22.0.0"
   },
-  "homepage": "https://github.com/cameraui/rpc#readme",
+  "homepage": "https://github.com/atva0408-create/Vion-rpc#readme",
   "keywords": [
     "camera.ui",
     "nats",
@@ -56,6 +56,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cameraui/rpc.git"
+    "url": "git+https://github.com/atva0408-create/Vion-rpc.git"
   }
 }

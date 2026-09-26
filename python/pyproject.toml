@@ -32,11 +32,11 @@ examples = ["uvloop>=0.22.1"]
 test = ["pytest>=9.1.1"]
 
 [project.urls]
-Homepage = "https://github.com/cameraui/rpc"
-Documentation = "https://github.com/cameraui/rpc"
-Repository = "https://github.com/cameraui/rpc"
-"Bug Tracker" = "https://github.com/cameraui/rpc/issues"
-Changelog = "https://github.com/cameraui/rpc/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/atva0408-create/Vion-rpc"
+Documentation = "https://github.com/atva0408-create/Vion-rpc"
+Repository = "https://github.com/atva0408-create/Vion-rpc"
+"Bug Tracker" = "https://github.com/atva0408-create/Vion-rpc/issues"
+Changelog = "https://github.com/atva0408-create/Vion-rpc/blob/main/CHANGELOG.md"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

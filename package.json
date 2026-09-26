@@ -31,13 +31,13 @@
     "release": "bash scripts/release.sh",
     "update": "updates -M npm,pypi,go,cargo,docker,make --update ./ && updates --file go,node,python,tests --update ./"
   },
-  "homepage": "https://github.com/cameraui/rpc#readme",
+  "homepage": "https://github.com/atva0408-create/Vion-rpc#readme",
   "bugs": {
-    "url": "https://github.com/cameraui/rpc/issues"
+    "url": "https://github.com/atva0408-create/Vion-rpc/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cameraui/rpc.git"
+    "url": "git+https://github.com/atva0408-create/Vion-rpc.git"
   },
   "license": "MIT",
   "author": "seydx",
