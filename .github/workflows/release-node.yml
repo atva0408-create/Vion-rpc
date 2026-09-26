@@ -46,6 +46,9 @@ jobs:
           npm --prefix node run build
 
       - name: Publish to npm
+        env:
+          # first publish of a new package needs a token; later releases can use npm trusted publishing (OIDC)
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           npm install -g npm@11.18.0
           cd node && npm publish --provenance --access public
